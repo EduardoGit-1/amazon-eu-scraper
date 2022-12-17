@@ -4,7 +4,7 @@ URLS = {
     "AmazonES" : "https://www.amazon.es/",
     "AmazonFR" : "https://www.amazon.fr/",
     "AmazonIT" : "https://www.amazon.it/",
-    #"AmazonDE" : "https://www.amazon.de/",
+    "AmazonDE" : "https://www.amazon.de/",
 }
 
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
